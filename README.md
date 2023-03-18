@@ -20,4 +20,4 @@
 ### :fire: Моя активность :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamdikhanov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src='https://www.codewars.com/users/zamdikhanov/badges/small' />
+<a href="https://www.codewars.com/users/zamdikhanov"><img src='https://www.codewars.com/users/zamdikhanov/badges/small' /></a>
